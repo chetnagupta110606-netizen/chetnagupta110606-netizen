@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I'm Chetna Gupta 👋
 
-<!--
-**chetnagupta110606-netizen/chetnagupta110606-netizen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student
 
-Here are some ideas to get you started:
+💻 Learning:
+- C++
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Web Development
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔥 Solved 80+ LeetCode Problems
+
+🚀 Current Goals:
+- Reach 300+ LeetCode Problems
+- Build Full Stack Projects
+- Prepare for Internships
+- Particiapte in multiple Hackathons
+
+## 🛠 Tech Stack
+- C++
+- Python
+- Streamlit
+- Java
+- Git & GitHub
+
+## 🌱 Currently Learning
+- Trees
+- Graphs
+
+## 📫 Connect with Me
+- LinkedIn: https://www.linkedin.com/in/chetna-gupta-524b86384
+- Email: chetnagupta110606@gmail.com
